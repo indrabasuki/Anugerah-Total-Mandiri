@@ -4,5 +4,5 @@
 
     </div>
 
-    <strong>Copyright &copy; {{ date('Y') }} | {{config('app.name')}}</strong>
+    <strong>Copyright &copy; {{ date('Y') }} </strong>
 </footer>
